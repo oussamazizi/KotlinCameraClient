@@ -1,5 +1,7 @@
 package com.example.azizi.kotlincameraclient
-
+/**
+ * Created by Azizi on 12/07/2020.
+ */
 import android.graphics.*
 import android.media.FaceDetector
 import android.os.AsyncTask

@@ -1,5 +1,7 @@
 package com.example.azizi.kotlincameraclient
-
+/**
+ * Created by Azizi on 12/07/2020.
+ */
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.os.Handler
